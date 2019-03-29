@@ -1,7 +1,3 @@
-# Hi!
-Thanks for buying Angular Admin Template. You can find the documentation in: https://admin-template-docs.angular-templates.io/
-
-If you have any question please don't hesitate to contact us at: contact@angular-templates.io
 
 ## How to run this project
 
